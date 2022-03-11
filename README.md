@@ -1,6 +1,4 @@
 # @Pereira92_
-# python
-# tkinter game
 # jv.pereiracastro2002@gmail.com
 
 <!---
